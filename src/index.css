@@ -1,0 +1,10 @@
+@import "tailwindcss";
+/* index.css */
+@layer utilities {
+    .font-sans {
+        font-family: 'Roboto', sans-serif;
+    }
+    .grid-cols-70-30 {
+        grid-template-columns: 70% 28%;
+    }
+}
