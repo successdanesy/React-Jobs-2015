@@ -1,4 +1,4 @@
-import App from "../App.jsx";
+
 
 const Hero = () => {
   return (
