@@ -12,7 +12,6 @@ const App = () => {
             <HomeCards />
             <JobListings />
             <ViewAllJobs />
-
         </>
     )
 }
